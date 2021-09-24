@@ -103,7 +103,8 @@ footer{
 
     .formContainer{
        max-width: 80%;
-       margin: 20px;
+       margin: auto;
+       float: none;
     }
 
     .picture{
